@@ -1,0 +1,7 @@
+pudim 44 9.9 Sobremesa
+pastel 35 10.9 Entrada
+espeto 43 12.9 Entrada
+lasanha 37 45.0 Principal
+guarana 8 5.9 Bebida
+brownie 21 16.9 Sobremesa
+coca 15 5.5 Bebida
